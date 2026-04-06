@@ -63,6 +63,12 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ---
 
+## 📊 Business Impact
+
+This dashboard helps analyze sales and profit performance across regions and segments, enabling better decision-making and identification of growth opportunities.
+
+---
+
 ## ⭐ Support & Feedback
 
 If you found this project insightful, please consider giving it a ⭐ on GitHub.  
