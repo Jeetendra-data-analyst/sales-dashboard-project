@@ -32,9 +32,9 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard](image.jpeg)
 
 ---
 
