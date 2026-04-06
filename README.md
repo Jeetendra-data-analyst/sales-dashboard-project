@@ -38,11 +38,6 @@ The dataset used in this project is **Global Superstore Dataset**, commonly used
 
 ---
 
-## 🚀 Project Objective
-The goal of this project is to transform raw sales data into meaningful insights that help businesses make data-driven decisions.
-
----
-
 ## Dashboard Preview
 
 ![Dashboard](image.jpeg)
